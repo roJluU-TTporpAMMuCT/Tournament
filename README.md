@@ -1,7 +1,7 @@
 # Tournament
 Restful application for creating and participating programming tasks on java
 
-The task consists of title, condition, empty class with empty method(s), first smaller visible test class and second larger invisible test class.\n
+The task consists of title, condition, empty class with empty method(s), first smaller visible test class and second larger invisible test class.<br>
 Solution to task is just a class(usualy you can just start filling provided empty class with empty method/methods).
 
 If here a compile error or test fail while creating\patricipating the task - you'll get a rest feedback with all interesting information.
