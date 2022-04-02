@@ -11,7 +11,7 @@ The applicaton consists of 3 components:
  - Performing requests and responses(Controllers/Services);
  - Storing and accessing tasks, solutions and other data(Repos/Models);
 
-Repos realized from JPA repo standart methods and some spring data features.
-Models bades on Hibernate.
-An In-memory compiler assembled from edited standard java classes.
+Repos realized from JPA repo standart methods and some spring data features.<br>
+Models bades on Hibernate.<br>
+An In-memory compiler assembled from edited standard java classes.<br>
 There is presented some features of lombok and provided security coverage from Spring Security.
